@@ -3,10 +3,11 @@
  -This program check your new mail in Gmail(bash)
  -send the number of mail (python) to the arduino
  -print the number of mail on a LCD screen
-
+ -You need to finish the arduino code for print in a lcd screen or light up a led or all you ideas
+ 
 requierd :
 -raspberry with debian installed
--arduino with the code installed
+-arduino with the code installed (check_mail.ino)
 
 execute the following command in root :
 -"bash check_mail.sh" (this code start the python code automatically but you need to pose 2 codes on the same file path)
