@@ -17,6 +17,6 @@ else
 	echo $resultat > nb_mail.txt
 fi
 sudo rm atom
-python communication_serial.py 
+python send_rpi.py 
 sleep 2
 done
