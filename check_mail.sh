@@ -1,8 +1,8 @@
 #!/bin/bash
 #exec >&/dev/null
-sudo wget 'https://testdutrol1:testdutrol5@mail.google.com/mail/feed/atom' 2> /dev/null  #do a first request for show a first bug page 
+sudo wget 'https://USERNAME:MDP@mail.google.com/mail/feed/atom' 2> /dev/null  #do a first request for show a first bug page 
 while true;do  #this program doesn't stop
-sudo wget 'https://testdutrol1:testdutrol5@mail.google.com/mail/feed/atom' 2> /dev/null  #recover the source code
+sudo wget 'https://USERNAME:MDP@mail.google.com/mail/feed/atom' 2> /dev/null  #recover the source code
 nombre_deux_foix=$(grep -o entry atom | wc -l) #count the repetion of the iteration
 nombre=0
 ((resultat=$nombre_deux_foix/2))
