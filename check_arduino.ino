@@ -23,14 +23,14 @@ void loop(){
         incomingByte = Serial.read();
         incomingByte0 = Serial.read();
         incomingByte1 = Serial.read();
-        // ************* converti les byte en nombre landa
+        // ************* convert byte to integer
         incomingByte=incomingByte-48;
         if (incomingByte<0){etat=etat+1;}
         incomingByte0=incomingByte0-48;
         if (incomingByte0<0){etat=etat+1;}
         incomingByte1=incomingByte1-48;
         if (incomingByte1<0){etat=etat+1;}
-        // ************* attente qui sert a rien
+
         Serial.print("check mail : ");
         Serial.println("75 %");
         delay(500);
