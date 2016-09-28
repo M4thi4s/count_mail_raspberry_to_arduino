@@ -14,7 +14,7 @@ else
 	echo -e "you've \033[31m$resultat\033[00m new mail"
 	echo $resultat > nb_mail.txt
 fi
-sudo rm atom
+sudo rm atom*
 python communication_serial.py
 sleep 1
 done
