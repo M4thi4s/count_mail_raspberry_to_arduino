@@ -16,18 +16,3 @@ contact :
   -if you have any problem with the installation or execution send me a msg pls
 skype - mathelec5
 gmail - 3l3ctro.m4thi4s@gmail.com
-
-donate :
-
-- paypal.me/M4THI4S
-
-╔══════════════════════════════╗                            
-║  ╔═══╗      ╔═══╗  ╔╗        ║
-║  ║ ╔╗╚╗    ╔╝╔╗ ║  ║║        ║
-║  ║ ║╚╗╚╗  ╔╝╔╝║ ║  ║║        ║ 
-║  ║ ║ ╚╗╚╗╔╝╔╝ ║ ║  ║║    ╔╗  ║  
-║  ║ ║  ╚╗╚╝╔╝  ║ ║  ║╚════╝║  ║         
-║  ║ ║   ╚══╝   ║ ║  ╚═════╗║  ║
-║  ║ ║          ║ ║        ║║  ║
-║  ╚═╝          ╚═╝        ╚╝  ║
-╚══════════════════════════════╝
