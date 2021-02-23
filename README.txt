@@ -11,8 +11,3 @@ requierd :
 
 execute the following command in root :
 -"bash check_mail.sh" (this code start the python code automatically but you need to pose 2 codes on the same file path)
-
-contact :
-  -if you have any problem with the installation or execution send me a msg pls
-skype - mathelec5
-gmail - 3l3ctro.m4thi4s@gmail.com
